@@ -1,0 +1,9 @@
+[submodule "sub-backend"]
+	path = sub-backend
+	url = https://github.com/gezielcarvalho/sub-backend.git
+[submodule "sub-frontend"]
+	path = sub-frontend
+	url = https://github.com/gezielcarvalho/sub-frontend.git
+[submodule "shared-code"]
+	path = shared-code
+	url = ./shared-code
