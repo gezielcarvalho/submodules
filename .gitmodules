@@ -5,5 +5,5 @@
 	path = sub-frontend
 	url = https://github.com/gezielcarvalho/sub-frontend.git
 [submodule "shared-code"]
-	path = https://github.com/gezielcarvalho/shared-code.git
-	url = ./shared-code
+	path = shared-code
+	url = https://github.com/gezielcarvalho/shared-code.git
